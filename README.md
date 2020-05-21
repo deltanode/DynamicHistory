@@ -1,7 +1,7 @@
 ## DynamicHistory
 It selectively remove chrome browsing history.
 
-### Usage
+#### Usage
 
 1. Open your Terminal/cmd
 
