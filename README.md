@@ -12,6 +12,12 @@ It selectively remove chrome browsing history.
 
 4. `DynamicHistory.py`
 
+or Execute:
+
+```
+ExecuteDynamicHistory.cmd
+```
+
 ----
 ### License
 
