@@ -12,6 +12,8 @@ It selectively remove chrome browsing history.
 
 4. `DynamicHistory.py`
 
+<br/>
+
 or Execute:
 
 ```
